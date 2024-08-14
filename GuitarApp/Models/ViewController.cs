@@ -8,7 +8,7 @@ namespace GuitarApp.Models
 {
     internal class ViewController
     {
-        private static Inventory _inventory = new Inventory();
+        private static Inventory _inventory;
         public ViewController(Inventory inventory)
         {
             _inventory =inventory;
@@ -17,8 +17,7 @@ namespace GuitarApp.Models
         {
             
 
-            static void Main()
-            {
+            
                 while (true)
                 {
                     Console.Clear();
@@ -119,6 +118,6 @@ namespace GuitarApp.Models
                 Console.WriteLine("Press any key to continue...");
                 Console.ReadKey();
             }
-        }
+        
     }
 }

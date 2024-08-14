@@ -12,3 +12,4 @@ C:\Users\sarojkumar.panda\Desktop\.netTraining\GuitarApp\GuitarApp\obj\Debug\net
 C:\Users\sarojkumar.panda\Desktop\.netTraining\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.pdb
 C:\Users\sarojkumar.panda\Desktop\.netTraining\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.genruntimeconfig.cache
 C:\Users\sarojkumar.panda\Desktop\.netTraining\GuitarApp\GuitarApp\obj\Debug\net8.0\ref\GuitarApp.dll
+C:\Users\sarojkumar.panda\Desktop\.netTraining\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.sourcelink.json
